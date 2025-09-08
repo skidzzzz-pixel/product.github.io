@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>P001</id>
+        <name>โทรศัพท์มือถือ</name>
+        <description>สมาร์ทโฟนหน้าจอ 6.5 นิ้ว กล้อง 48MP</description>
+        <price>8990</price>
+        <quantity>15</quantity>
+        <category>อิเล็กทรอนิกส์</category>
+    </product>
+
+    <product>
+        <id>P002</id>
+        <name>โน้ตบุ๊ก</name>
+        <description>โน้ตบุ๊ก Intel i5 RAM 8GB SSD 512GB</description>
+        <price>22990</price>
+        <quantity>10</quantity>
+        <category>อิเล็กทรอนิกส์</category>
+    </product>
+
+    <product>
+        <id>P003</id>
+        <name>หูฟังไร้สาย</name>
+        <description>หูฟังบลูทูธพร้อมไมโครโฟนในตัว</description>
+        <price>1990</price>
+        <quantity>25</quantity>
+        <category>อิเล็กทรอนิกส์</category>
+    </product>
+
+    <product>
+        <id>P004</id>
+        <name>กระเป๋าเป้</name>
+        <description>กระเป๋าเป้ผ้าแคนวาส กันน้ำได้</description>
+        <price>790</price>
+        <quantity>30</quantity>
+        <category>แฟชั่น</category>
+    </product>
+
+    <product>
+        <id>P005</id>
+        <name>รองเท้าผ้าใบ</name>
+        <description>รองเท้าผ้าใบสีขาวใส่สบาย</description>
+        <price>1290</price>
+        <quantity>20</quantity>
+        <category>แฟชั่น</category>
+    </product>
+
+    <product>
+        <id>P006</id>
+        <name>หนังสือการ์ตูน</name>
+        <description>มังงะเล่มล่าสุดพิมพ์ 2025</description>
+        <price>120</price>
+        <quantity>50</quantity>
+        <category>หนังสือ</category>
+    </product>
+
+    <product>
+        <id>P007</id>
+        <name>หม้อหุงข้าวไฟฟ้า</name>
+        <description>หม้อหุงข้าวขนาด 1.8 ลิตร</description>
+        <price>890</price>
+        <quantity>18</quantity>
+        <category>เครื่องใช้ไฟฟ้า</category>
+    </product>
+
+    <product>
+        <id>P008</id>
+        <name>โต๊ะทำงานไม้</name>
+        <description>โต๊ะทำงานไม้สัก ขนาด 120x60 ซม.</description>
+        <price>4590</price>
+        <quantity>8</quantity>
+        <category>เฟอร์นิเจอร์</category>
+    </product>
+
+    <product>
+        <id>P009</id>
+        <name>ขวดน้ำสแตนเลส</name>
+        <description>ขวดน้ำเก็บอุณหภูมิ 500 มล.</description>
+        <price>350</price>
+        <quantity>40</quantity>
+        <category>ของใช้ในบ้าน</category>
+    </product>
+
+    <product>
+        <id>P010</id>
+        <name>ชุดเครื่องเขียน</name>
+        <description>เซ็ตปากกา ดินสอ และยางลบ</description>
+        <price>150</price>
+        <quantity>60</quantity>
+        <category>เครื่องเขียน</category>
+    </product>
+</products>
